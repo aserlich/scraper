@@ -1,6 +1,6 @@
 APScheduler==2.1.2
 BeautifulSoup==3.2.1
-Pattern==2.6
+Pattern==2.6 --allow-unverified pattern
 Pillow==2.3.0
 PyYAML==3.10
 cssselect==0.9.1
